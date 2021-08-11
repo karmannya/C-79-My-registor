@@ -20,5 +20,5 @@ function submit(){
 function sort(){
 list.sort();
 console.log(list);
-document.getElementById("diplayname").innerHTML=list;
+document.getElementById("displayname").innerHTML=list;
 }
